@@ -1,0 +1,19 @@
+h1{
+    background: silver;
+    color: red;
+}
+h2{
+background: yellow;
+    color: black;
+}
+p{
+    background: aqua;
+    color: brown;
+}
+ul{
+    background: blue;
+    color: red;
+}
+img{
+    width:300px ;
+}
