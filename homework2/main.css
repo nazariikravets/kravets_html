@@ -1,0 +1,39 @@
+.header{
+    background: blue;
+    width: 790px;
+    height: 300px;
+    margin-bottom: 20px;
+}
+.container{
+    display: flex;
+}
+.a{
+    background: #030336;
+    height: 300px;
+    width: 250px;
+    margin-right: 20px;
+}
+.b{
+    background: #030336;
+    height: 300px;
+    width: 250px;
+    margin-right: 20px;
+}
+.c{
+    background: #030336;
+    height: 300px;
+    width: 250px;
+}
+.block{
+    margin-top: 20px;
+    background: blue;
+    width: 790px;
+    height: 790px;
+}
+.text{
+    color: white;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
